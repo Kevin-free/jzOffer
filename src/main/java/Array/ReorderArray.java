@@ -20,10 +20,11 @@ public class ReorderArray {
 
     public void reOrderArray(int [] array) {
         int m = array.length;
-        int k = 0;
+        int k = 0; // 记录负数第一次出现的位置
         for (int i = 0; i < m; i++) {
             if (array[i] >= 0) {
                 int j = i;
+                // 将负数后面的正数往前移动
                 while (j > k) {
                     int tmp = array[j];
                     array[j] = array[j-1];

@@ -3,7 +3,7 @@ package Array;
 import java.util.ArrayList;
 
 /**
- * @description:
+ * @description: 和为S的连续正数序列 【双指针】
  * @author: Kevin
  * @createDate: 2020/2/17
  * @version: 1.0

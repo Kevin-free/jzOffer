@@ -2,7 +2,7 @@ package Array;
 
 /**
  * 数组中出现次数超过一半的数字
- * 本题知识点： 数组
+ * 本题知识点： 数组、思维
  * 链接：https://www.nowcoder.com/questionTerminal/e8a1b01a2df14cb2b228b30ee6a92163?answerType=1&f=discussion
  * 来源：牛客网
  * <p>

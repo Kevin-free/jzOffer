@@ -23,7 +23,7 @@ public class PrintMinNumber {
     public String PrintMinNumber(int[] numbers) {
         int n;
         String s = "";
-        ArrayList<Integer> list = new ArrayList<Integer>();
+        ArrayList<Integer> list = new ArrayList<>();
         n = numbers.length;
         for (int i = 0; i < n; i++) {
             list.add(numbers[i]);
