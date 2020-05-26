@@ -54,14 +54,14 @@ public class TopKFrequent {
             }
             // 达到k数，判断下一个值是否大于队首值，大于则将队首值删除，将此值添加
             else if (map.get(key) > map.get(pq.peek())) {
-                pq.remove();
+                pq.poll();
                 pq.add(key);
             }
         }
 
         List<Integer> res = new LinkedList<>();
         while (!pq.isEmpty()) {
-            res.add(pq.remove());
+            res.add(pq.poll());
         }
         Collections.reverse(res); // 翻转数组，输出结果频率由高到低
         return res;

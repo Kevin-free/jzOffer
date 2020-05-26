@@ -31,7 +31,7 @@ public class $40_GetLeastNumbers_Solution {
         PriorityQueue<Integer> maxHeap = new PriorityQueue<>(k,
                 // 助记 默认升序 o1 - o2
                 //      降序则为 o2 -o1
-//                (o1, o2) -> o2 - o1
+//                (o1, o2) -> o2 - o1   // Java8 后支持 lambda 表达式
                 new Comparator<Integer>() {
                     @Override
                     public int compare(Integer o1, Integer o2) {
@@ -51,6 +51,7 @@ public class $40_GetLeastNumbers_Solution {
                 maxHeap.offer(input[i]);
             }
         }
+        // 遍历最大堆，取出结果
         for (Integer integer : maxHeap) {
             result.add(integer);
         }

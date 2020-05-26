@@ -1,5 +1,7 @@
 package String;
 
+import java.util.Scanner;
+
 /**
  * @description: 翻转单词顺序列
  * @author: Kevin
@@ -10,8 +12,10 @@ public class ReverseSentence {
 
     public static void main(String[] args) {
         ReverseSentence solution = new ReverseSentence();
-        String str = "I am a student.";
-        System.out.println(solution.ReverseSentence(str));  // student. a am I
+//        Scanner s = new Scanner(System.in);
+//        String str =  s.nextLine();
+        String str = "I like beijing.";
+        System.out.println(solution.ReverseSentence(str));  // beijing. like I
     }
 
     public String ReverseSentence(String str) {
@@ -19,8 +23,8 @@ public class ReverseSentence {
         char[] chars = str.toCharArray();
         int i = 0, j = 0;
         while (j <= n) {
-            // 空格分割单词，或者为最后一个词
-            if (chars[j] == ' ' || j == n) {
+            // 最后一个词，或者空格分割单词
+            if (j == n || chars[j] == ' ') { // 注意！前后顺序不能反！ 否则 IndexOutOfBounds
                 reverse(chars, i, j - 1);
                 i = j + 1;
             }
