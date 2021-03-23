@@ -36,6 +36,7 @@ public class TopKFrequent {
             }
         }
 
+        // test
         // 2. 根据频率，将频率添加到优先队列（Java默认实现最小堆）
         PriorityQueue<Integer> pq = new PriorityQueue<>(
 //                (o1, o2) -> map.get(o1) - map.get(o2)

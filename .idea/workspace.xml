@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8d205b6a-6529-4e4c-8350-d1e1dcb7dbec" name="Default" comment="add">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jzOffer/Array/$40_GetLeastNumbers_Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzOffer/Array/$40_GetLeastNumbers_Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jzOffer/Array/$40_GetLeastNumbers_Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzOffer/Array/$40_GetLeastNumbers_Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/jzOffer/Array/ReorderArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jzOffer/Array/ReorderArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Array/$40_GetLeastNumbers_Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Array/$40_GetLeastNumbers_Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Array/TopKFrequent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Array/TopKFrequent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/String/ReverseSentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/String/ReverseSentence.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +20,7 @@
       <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/HashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7912">
+            <state relative-caret-position="8694">
               <caret line="378" selection-start-line="378" selection-end-line="378" />
             </state>
           </provider>
@@ -46,15 +40,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="460">
               <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="二叉树的直径.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Tree/二叉树的直径.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="920">
-              <caret line="40" column="61" selection-start-line="40" selection-start-column="61" selection-end-line="40" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -143,11 +128,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="不同路径1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="不同路径1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/dynamicProgramming/不同路径1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+            <state relative-caret-position="1265">
+              <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -182,6 +167,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="TopKFrequent.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Array/TopKFrequent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="44" column="45" selection-start-line="44" selection-start-column="45" selection-end-line="44" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ThreeSum.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/doublePointer/ThreeSum.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -209,8 +203,8 @@
       <file leaf-file-name="不同路径2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/dynamicProgramming/不同路径2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="713">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="897">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
             </state>
           </provider>
         </entry>
@@ -236,7 +230,7 @@
       <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22494">
+            <state relative-caret-position="21229">
               <caret line="978" column="9" selection-start-line="978" selection-start-column="9" selection-end-line="978" selection-end-column="9" />
             </state>
           </provider>
@@ -404,7 +398,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jzOffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jzOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="dynamicProgramming" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jzOffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jzOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dynamicProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="不同路径1" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="jzOffer" type="b2602c69:ProjectViewProjectNode" />
@@ -419,14 +430,30 @@
               <item name="jzOffer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="math" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jzOffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jzOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jzOffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jzOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -687,6 +714,9 @@
       <workItem from="1586161852272" duration="742000" />
       <workItem from="1588126308438" duration="332000" />
       <workItem from="1589502949269" duration="63000" />
+      <workItem from="1592202281452" duration="1384000" />
+      <workItem from="1603972112050" duration="1527000" />
+      <workItem from="1615889502590" duration="1349000" />
     </task>
     <task id="LOCAL-00001" summary="dd">
       <created>1582288220302</created>
@@ -720,7 +750,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="233344000" />
+    <option name="totallyTimeSpent" value="237604000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -729,8 +759,8 @@
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="JRebel Console" order="6" sideWeight="0.5015129" side_tool="true" weight="0.36772045" />
       <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="JRebel Executor" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="MyBatis Log" order="9" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -743,10 +773,10 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="right" id="Run" order="10" weight="0.2700454" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.24292845" visible="true" weight="0.20877458" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.24292845" visible="true" weight="0.21785174" />
       <window_info anchor="bottom" id="Problems" order="13" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="8" />
@@ -1065,13 +1095,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Array/TopKFrequent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1472">
-          <caret line="64" column="9" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Array/Clearer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -1234,7 +1257,7 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7912">
+        <state relative-caret-position="8694">
           <caret line="378" selection-start-line="378" selection-end-line="378" />
         </state>
       </provider>
@@ -1325,7 +1348,7 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22494">
+        <state relative-caret-position="21229">
           <caret line="978" column="9" selection-start-line="978" selection-start-column="9" selection-end-line="978" selection-end-column="9" />
         </state>
       </provider>
@@ -1358,16 +1381,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HashMap/TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/doublePointer/ThreeSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1380">
@@ -1397,15 +1410,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dynamicProgramming/不同路径2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="897">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dynamicProgramming/不同路径1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        <state relative-caret-position="1265">
+          <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HashMap/TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Array/TopKFrequent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="44" column="45" selection-start-line="44" selection-start-column="45" selection-end-line="44" selection-end-column="45" />
         </state>
       </provider>
     </entry>
